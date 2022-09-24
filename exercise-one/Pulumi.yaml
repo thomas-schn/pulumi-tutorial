@@ -1,0 +1,3 @@
+name: s3-example
+description: A minimal AWS Java Pulumi program
+runtime: java
